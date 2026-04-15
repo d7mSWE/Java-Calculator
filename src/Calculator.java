@@ -19,7 +19,7 @@ public class Calculator extends JFrame implements ActionListener {
     };
 
     public Calculator() {
-        setTitle("Java Calculator - d7mSWE");
+        setTitle("JavaCalculator - d7mSWE");
         setSize(350, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
